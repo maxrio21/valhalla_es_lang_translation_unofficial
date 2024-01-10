@@ -105,7 +105,7 @@
         "status_command_party_exp_sharing_disabled": "&7Party EXP sharing disabled",
         "status_command_party_item_sharing_enabled": "&aParty item sharing enabled",
         "status_command_party_item_sharing_disabled": "&7Party item sharing disabled",
-        "status_command_party_friendly_fire_enabled": "&aFriendly fire enabled",
+        "status_command_party_friendly_fire_enabled": "&aFuego amigo activado",
         "status_command_party_friendly_fire_disabled": "&aFriendly fire disabled",
         "status_command_party_invite_sent": "&aInvite sent",
         "status_command_party_invite_received": "&a%player% has invited you to join %party%! Type &2/party join %party_id% &ato join",
